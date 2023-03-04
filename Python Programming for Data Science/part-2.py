@@ -1,5 +1,5 @@
 
-#İntroduction To Data Strcutures
+#Introduction To Data Strcutures
 
 #number:integer
 x=46
